@@ -10,7 +10,7 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/CodeEditorLand/NPM.git",
-		"directory": "Ingress/Data"
+		"directory": "Ingress"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
