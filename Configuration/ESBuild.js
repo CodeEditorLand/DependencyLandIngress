@@ -2,7 +2,7 @@ export default {
     color: true,
     format: "esm",
     metafile: true,
-    minify: true,
+    minify: false,
     outdir: "Target",
     platform: "node",
     target: "esnext",
