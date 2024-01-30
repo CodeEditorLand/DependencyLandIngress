@@ -1,5 +1,5 @@
 name = "ingress-land"
-main = "./Target/Worker.js"
+main = "./Target/Variable/Worker.js"
 account_id = "ecc5b1147fe2b96b423abb0717c0a395"
 compatibility_date = "2024-01-29"
 compatibility_flags = ["nodejs_compat"]
