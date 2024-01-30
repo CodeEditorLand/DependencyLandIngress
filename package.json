@@ -1,5 +1,5 @@
 {
-	"name": "@codeeditorland/ingress-data",
+	"name": "@codeeditorland/ingress",
 	"version": "0.0.1",
 	"private": false,
 	"description": "🏜️ Land ingress worker",
