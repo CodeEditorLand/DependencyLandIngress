@@ -1,4 +1,4 @@
-# [@codeeditorland/ingress] ⬅️
+# [@codeeditorland/ingress] 💾
 
 ## Installation
 
