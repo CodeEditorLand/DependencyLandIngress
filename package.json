@@ -1,8 +1,8 @@
 {
 	"name": "@codeeditorland/ingress",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"private": false,
-	"description": "💾 Ingress Worker for Land.",
+	"description": "Ingress Worker for Land. 💾",
 	"homepage": "https://ingress.land.playform.cloud",
 	"bugs": {
 		"url": "https://github.com/CodeEditorLand/NPMIngress/issues"
@@ -24,7 +24,7 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -es Configuration/ESBuild.ts"
 	},
 	"dependencies": {
-		"@codeeditorland/common": "0.0.1",
+		"@codeeditorland/common": "0.0.2",
 		"itty-router": "4.0.27"
 	},
 	"devDependencies": {
@@ -35,7 +35,7 @@
 		"@typescript-eslint/parser": "6.21.0",
 		"eslint": "8.56.0",
 		"miniflare": "3.20240129.1",
-		"typescript-esbuild": "0.3.8",
+		"typescript-esbuild": "0.3.9",
 		"wrangler": "3.28.1"
 	},
 	"publishConfig": {
