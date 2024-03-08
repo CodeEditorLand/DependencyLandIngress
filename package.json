@@ -1,8 +1,8 @@
 {
 	"name": "@codeeditorland/ingress",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"private": false,
-	"description": "Ingress Worker for Land. 💾",
+	"description": "💾 Ingress Worker for Land.",
 	"homepage": "https://ingress.land.playform.cloud",
 	"bugs": {
 		"url": "https://github.com/CodeEditorLand/NPMIngress/issues"
