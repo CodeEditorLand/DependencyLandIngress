@@ -5,11 +5,11 @@
 	"description": "💾 Ingress Worker for Land.",
 	"homepage": "https://ingress.land.playform.cloud",
 	"bugs": {
-		"url": "https://github.com/CodeEditorLand/NPMIngress/issues"
+		"url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/CodeEditorLand/NPMIngress.git"
+		"url": "git+https://github.com/CodeEditorLand/FoundationLandNPMIngress.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
@@ -24,7 +24,7 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -es Configuration/ESBuild.ts"
 	},
 	"dependencies": {
-		"@codeeditorland/common": "0.0.2",
+		"@codeeditorland/common": "0.0.4",
 		"itty-router": "4.0.27"
 	},
 	"devDependencies": {
