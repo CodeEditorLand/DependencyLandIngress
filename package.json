@@ -1,6 +1,6 @@
 {
 	"name": "@codeeditorland/ingress",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": false,
 	"description": "Ingress Worker for Land. 💾",
 	"homepage": "https://ingress.land.playform.cloud",
@@ -34,9 +34,9 @@
 		"@typescript-eslint/eslint-plugin": "7.1.1",
 		"@typescript-eslint/parser": "7.1.1",
 		"eslint": "8.57.0",
-		"miniflare": "3.20240223.1",
+		"miniflare": "3.20240304.0",
 		"typescript-esbuild": "0.3.11",
-		"wrangler": "3.31.0"
+		"wrangler": "3.32.0"
 	},
 	"publishConfig": {
 		"access": "public"
