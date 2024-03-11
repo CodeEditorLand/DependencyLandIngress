@@ -4,9 +4,7 @@
  */
 export default {
 	fetch: async (...[Request, Environment]: Parameters<Type["fetch"]>) =>
-		await (
-			await import("itty-router/Router")
-		)
+		await (await import("itty-router/Router"))
 			.Router()
 			.get(
 				"*",
@@ -15,8 +13,8 @@ export default {
 						{
 							Error: "Not Found.",
 						},
-						404
-					)
+						404,
+					),
 			)
 			.handle(Request, Environment),
 } satisfies Type as Type;
