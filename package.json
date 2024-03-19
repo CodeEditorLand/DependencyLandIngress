@@ -21,7 +21,7 @@
 	"main": "./Target/Variable/Worker.js",
 	"types": "./Target/Variable/Worker.d.ts",
 	"scripts": {
-		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -es Configuration/ESBuild.ts"
+		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -ES Configuration/ESBuild.ts"
 	},
 	"dependencies": {
 		"@codeeditorland/common": "0.0.4",
