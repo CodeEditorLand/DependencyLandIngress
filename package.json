@@ -1,46 +1,48 @@
 {
-	"name": "@codeeditorland/ingress",
-	"version": "0.0.4",
-	"private": false,
-	"description": "💾 Ingress Worker for Land.",
-	"homepage": "https://ingress.land.playform.cloud",
-	"bugs": {
-		"url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/CodeEditorLand/FoundationLandNPMIngress.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "Nikola R. Hristov",
-		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
-	},
-	"type": "module",
-	"main": "./Target/Variable/Worker.js",
-	"types": "./Target/Variable/Worker.d.ts",
-	"scripts": {
-		"Document": "TypeScriptDocument 'Source/**/*.ts'",
-		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -ES Configuration/ESBuild.ts"
-	},
-	"dependencies": {
-		"@codeeditorland/common": "0.0.4",
-		"itty-router": "4.2.2"
-	},
-	"devDependencies": {
-		"@cloudflare/workers-types": "4.20240314.0",
-		"@miniflare/tre": "3.0.0-next.14",
-		"@types/dotenv": "8.2.0",
-		"@typescript-eslint/eslint-plugin": "7.3.1",
-		"@typescript-eslint/parser": "7.3.1",
-		"eslint": "8.57.0",
-		"miniflare": "3.20240314.0",
-		"typescript-document": "0.0.3",
-		"typescript-esbuild": "0.4.4",
-		"wrangler": "3.35.0"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+    "author": {
+        "email": "Nikola@Playform.Cloud",
+        "name": "Nikola R. Hristov",
+        "url": "https://nikolahristov.tech"
+    },
+    "bugs": {
+        "url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
+    },
+    "dependencies": {
+        "@codeeditorland/common": "0.0.4",
+        "itty-router": "4.2.2"
+    },
+    "description": "💾 Ingress Worker for Land.",
+    "devDependencies": {
+        "@cloudflare/workers-types": "4.20240314.0",
+        "@miniflare/tre": "3.0.0-next.14",
+        "@types/dotenv": "8.2.0",
+        "@typescript-eslint/eslint-plugin": "7.3.1",
+        "@typescript-eslint/parser": "7.3.1",
+        "eslint": "8.57.0",
+        "miniflare": "3.20240314.0",
+        "typescript-document": "0.0.3",
+        "typescript-esbuild": "0.4.4",
+        "wrangler": "3.35.0"
+    },
+    "homepage": "https://ingress.land.playform.cloud",
+    "license": "SEE LICENSE IN LICENSE",
+    "main": "./Target/Variable/Worker.js",
+    "name": "@codeeditorland/ingress",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CodeEditorLand/FoundationLandNPMIngress.git"
+    },
+    "scripts": {
+        "Document": "TypeScriptDocument 'Source/**/*.ts'",
+        "prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts' -ES Configuration/ESBuild.ts"
+    },
+    "type": "module",
+    "types": "./Target/Variable/Worker.d.ts",
+    "version": "0.0.4"
 }
+
+
