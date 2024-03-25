@@ -8,7 +8,7 @@ First, install the `@codeeditorland/ingress` component like so:
 npm install -D -E @codeeditorland/ingress
 ```
 
-[@codeeditorland/ingress]: https://npmjs.org/@codeeditorland/ingress
+[@codeeditorland/ingress]: HTTPS://NPMJS.Org/@codeeditorland/ingress
 
 ## Changelog
 

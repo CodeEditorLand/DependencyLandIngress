@@ -2,10 +2,10 @@
     "author": {
         "email": "Nikola@Playform.Cloud",
         "name": "Nikola R. Hristov",
-        "url": "https://NikolaHristov.Tech"
+        "url": "HTTPS://NikolaHristov.Tech"
     },
     "bugs": {
-        "url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
+        "url": "HTTPS://GitHub.Com/CodeEditorLand/FoundationLandNPMIngress/issues"
     },
     "dependencies": {
         "@codeeditorland/common": "0.0.4",
@@ -34,7 +34,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CodeEditorLand/FoundationLandNPMIngress.git"
+        "url": "git+HTTPS://GitHub.Com/CodeEditorLand/FoundationLandNPMIngress.git"
     },
     "scripts": {
         "Document": "TypeScriptDocument 'Source/**/*.ts'",
