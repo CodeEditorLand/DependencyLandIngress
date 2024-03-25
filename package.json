@@ -2,7 +2,7 @@
     "author": {
         "email": "Nikola@Playform.Cloud",
         "name": "Nikola R. Hristov",
-        "url": "https://nikolahristov.tech"
+        "url": "https://NikolaHristov.Tech"
     },
     "bugs": {
         "url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
@@ -24,7 +24,7 @@
         "typescript-esbuild": "0.4.5",
         "wrangler": "3.36.0"
     },
-    "homepage": "https://ingress.land.playform.cloud",
+    "homepage": "https://Ingress.Land.Playform.Cloud",
     "license": "SEE LICENSE IN LICENSE",
     "main": "./Target/Variable/Worker.js",
     "name": "@codeeditorland/ingress",
@@ -44,5 +44,3 @@
     "types": "./Target/Variable/Worker.d.ts",
     "version": "0.0.4"
 }
-
-
