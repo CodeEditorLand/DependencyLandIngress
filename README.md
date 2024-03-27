@@ -1,14 +1,14 @@
-# 💾 [@codeeditorland/ingress]
+# 💾 [Ingress]
 
 ## Installation
 
-First, install the `@codeeditorland/ingress` component like so:
+First, install the `Ingress` worker like so:
 
 ```sh
 npm install -D -E @codeeditorland/ingress
 ```
 
-[@codeeditorland/ingress]: https://NPMJS.Org/@codeeditorland/ingress
+[Ingress]: https://npmjs.org/@codeeditorland/ingress
 
 ## Changelog
 
