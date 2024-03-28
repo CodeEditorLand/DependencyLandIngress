@@ -3,7 +3,7 @@
 	"version": "0.0.4",
 	"private": false,
 	"description": "💾 Ingress Worker for Land.",
-	"homepage": "https://Ingress.Land.Playform.Cloud",
+	"homepage": "https://Ingress.Land.playform.cloud",
 	"bugs": {
 		"url": "https://GitHub.Com/CodeEditorLand/FoundationLandNPMIngress/issues"
 	},
@@ -14,8 +14,8 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
-		"email": "Nikola@Playform.Cloud",
-		"url": "https://NikolaHristov.Tech"
+		"email": "Nikola@playform.cloud",
+		"url": "https://nikolahristov.tech"
 	},
 	"type": "module",
 	"main": "./Target/Variable/Worker.js",
@@ -36,8 +36,8 @@
 		"@typescript-eslint/parser": "7.4.0",
 		"eslint": "8.57.0",
 		"miniflare": "3.20240320.0",
-		"typescript-document": "0.0.6",
-		"typescript-esbuild": "0.4.8",
+		"typescript-document": "0.0.7",
+		"typescript-esbuild": "0.4.9",
 		"wrangler": "3.39.0"
 	},
 	"publishConfig": {
