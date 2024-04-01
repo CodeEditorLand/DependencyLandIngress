@@ -2,8 +2,8 @@
 	"name": "@codeeditorland/ingress",
 	"version": "0.0.4",
 	"private": false,
-	"description": "💾 Ingress Worker for Land.",
-	"homepage": "https://Ingress.Land.playform.cloud",
+	"description": "💾 Ingress.",
+	"homepage": "https://ingress.Land.playform.cloud",
 	"bugs": {
 		"url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
 	},
@@ -31,12 +31,12 @@
 	"devDependencies": {
 		"@cloudflare/workers-types": "4.20240329.0",
 		"@miniflare/tre": "3.0.0-next.14",
+		"@playform/build": "0.0.1",
 		"@types/dotenv": "8.2.0",
 		"@typescript-eslint/eslint-plugin": "7.4.0",
 		"@typescript-eslint/parser": "7.4.0",
 		"eslint": "8.57.0",
 		"miniflare": "3.20240320.1",
-		"@playform/build": "0.0.1",
 		"wrangler": "3.41.0"
 	},
 	"optionalDependencies": {
