@@ -2,7 +2,7 @@
 	"name": "@codeeditorland/ingress",
 	"version": "0.0.4",
 	"private": false,
-	"description": "💾 Ingress.",
+	"description": "💾 Ingress",
 	"homepage": "https://ingress.Land.playform.cloud",
 	"bugs": {
 		"url": "https://github.com/CodeEditorLand/FoundationLandNPMIngress/issues"
