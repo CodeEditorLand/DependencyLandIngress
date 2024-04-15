@@ -25,12 +25,12 @@
 	},
 	"dependencies": {
 		"@codeeditorland/common": "0.0.4",
-		"itty-router": "5.0.12"
+		"itty-router": "5.0.15"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "4.20240405.0",
 		"@miniflare/tre": "3.0.0-next.14",
-		"@playform/build": "0.0.5",
+		"@playform/build": "0.0.7",
 		"@types/dotenv": "8.2.0",
 		"@typescript-eslint/eslint-plugin": "7.6.0",
 		"@typescript-eslint/parser": "7.6.0",
