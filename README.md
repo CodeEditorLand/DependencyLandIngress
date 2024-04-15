@@ -8,7 +8,7 @@ First, install the `Ingress` worker like so:
 npm install -D -E @codeeditorland/ingress
 ```
 
-[Ingress]: https://npmjs.org/@codeeditorland/ingress
+[Ingress.]: https://npmjs.org/@codeeditorland/ingress
 
 ## Changelog
 
