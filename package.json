@@ -5,11 +5,11 @@
 	"description": "💾 Ingress.",
 	"homepage": "https://ingress.Land.playform.cloud",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/FoundationLandNPMIngress/issues"
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/FoundationLandIngress/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/FoundationLandNPMIngress.git"
+		"url": "git+HTTPS://github.com/CodeEditorLand/FoundationLandIngress.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
