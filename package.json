@@ -25,7 +25,7 @@
 	},
 	"dependencies": {
 		"@codeeditorland/common": "0.0.4",
-		"itty-router": "5.0.16"
+		"itty-router": "5.0.17"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "4.20240423.0",
