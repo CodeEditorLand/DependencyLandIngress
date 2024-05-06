@@ -2,7 +2,7 @@
 	"name": "@codeeditorland/ingress",
 	"version": "0.0.4",
 	"private": false,
-	"description": "💾 — Ingress —",
+	"description": "💾 Ingress —",
 	"homepage": "https://ingress.Land.playform.cloud",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/CodeEditorLand/FoundationLandIngress/issues"
@@ -13,7 +13,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Nikola R. Hristov",
+		"name": "Nikola Hristov",
 		"email": "nikola@playform.cloud",
 		"url": "https://nikolahristov.tech"
 	},

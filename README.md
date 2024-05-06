@@ -1,4 +1,4 @@
-# 💾 — [Ingress] —
+# 💾 [Ingress] —
 
 ## Installation
 
