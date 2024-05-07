@@ -1,20 +1,20 @@
 {
-	"name": "@codeeditorland/ingress",
-	"version": "0.0.4",
+	"name": "@codeeditorland/ingest",
+	"version": "0.0.1",
 	"private": false,
-	"description": "💾 Ingress —",
+	"description": "🥛 Ingest —",
 	"homepage": "https://ingress.Land.playform.cloud",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngress/issues"
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngest/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/DependencyLandIngress.git"
+		"url": "git+HTTPS://github.com/CodeEditorLand/DependencyLandIngest.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola Hristov",
-		"email": "nikola@playform.cloud",
+		"email": "Nikola@PlayForm.Cloud",
 		"url": "https://nikolahristov.tech"
 	},
 	"type": "module",
