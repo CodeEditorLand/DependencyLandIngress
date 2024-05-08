@@ -1,14 +1,14 @@
-# 💾 [Ingress] —
+# 🥛 [Ingest] —
 
 ## Installation
 
-First, install the `Ingress` worker like so:
+First, install the `Ingest` worker like so:
 
 ```sh
-npm install -D -E @codeeditorland/ingress
+npm install -D -E @codeeditorland/ingest
 ```
 
-[Ingress.]: https://npmjs.org/@codeeditorland/ingress
+[Ingest]: https://npmjs.org/@codeeditorland/ingest
 
 ## Changelog
 
