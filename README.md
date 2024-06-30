@@ -5,10 +5,10 @@
 First, install the `Ingest` worker like so:
 
 ```sh
-npm install -D -E @codeeditorland/ingest
+npm install -D -E @codeeditorland/ingress
 ```
 
-[Ingest]: https://npmjs.org/@codeeditorland/ingest
+[Ingest]: https://npmjs.org/@codeeditorland/ingress
 
 ## Changelog
 

@@ -20,9 +20,11 @@ export default {
 									{
 										recursive: true,
 									},
-							  )
+								)
 							: {};
-					} catch (_Error) {}
+					} catch (_Error) {
+						console.log(_Error);
+					}
 				});
 			},
 		},
