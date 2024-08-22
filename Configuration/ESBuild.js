@@ -20,7 +20,7 @@ export default {
 									{
 										recursive: true,
 									},
-							  )
+								)
 							: {};
 					} catch (_Error) {}
 				});
