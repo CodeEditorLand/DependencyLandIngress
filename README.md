@@ -1,6 +1,6 @@
 # 🥛 [Ingest] —
 
-## Installation
+## 🚀 Installation
 
 First, install the `Ingest` worker like so:
 
