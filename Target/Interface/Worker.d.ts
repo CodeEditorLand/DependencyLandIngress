@@ -2,7 +2,7 @@
  * @module Worker
  *
  */
-export default interface Type extends ExportedHandler<Environment> {
+export default interface Interface extends ExportedHandler<Environment> {
     fetch: (Request: Request, Environment: Environment, Context: ExecutionContext) => Promise<Response>;
 }
 import type { ExecutionContext, ExportedHandler, Request, Response } from "@cloudflare/workers-types/experimental/index.js";
