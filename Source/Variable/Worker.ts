@@ -1,10 +1,15 @@
+// import type Token from "../Interface/Token.js";
+import type Interface from "../Interface/Worker.js";
+
 /**
  * @module Worker
  *
  */
 export default {
 	fetch: async (...[Request, Environment]: Parameters<Interface["fetch"]>) =>
-		await (await import("itty-router/Router"))
+		await (
+			await import("itty-router/Router")
+		)
 			.Router()
 			.get(
 				"*",
@@ -18,9 +23,6 @@ export default {
 			)
 			.handle(Request, Environment),
 } satisfies Interface as Interface;
-
-// import type Token from "../Interface/Token.js";
-import type Interface from "../Interface/Worker.js";
 
 // import type { JsonWebKey } from "@cloudflare/workers-types/experimental/index.js";
 

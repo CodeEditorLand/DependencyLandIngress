@@ -1,3 +1,5 @@
+import type { BuildOptions } from "esbuild";
+
 export default {
 	color: true,
 	format: "esm",
@@ -15,7 +17,9 @@ export default {
 				onStart(async () => {
 					try {
 						outdir
-							? await (await import("fs/promises")).rm(outdir, {
+							? await (
+									await import("fs/promises")
+								).rm(outdir, {
 									recursive: true,
 								})
 							: {};
@@ -36,5 +40,3 @@ export default {
 		}'`,
 	},
 } satisfies BuildOptions as BuildOptions;
-
-import type { BuildOptions } from "esbuild";
