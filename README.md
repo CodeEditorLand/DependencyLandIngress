@@ -12,4 +12,4 @@ npm install -D -E @codeeditorland/ingress
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for a history of changes to this component.
+See [`CHANGELOG.md`](CHANGELOG.md) for a history of changes to this component.
